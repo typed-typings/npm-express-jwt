@@ -1,0 +1,12 @@
+{
+  "name": "express-jwt",
+  "version": "3.4.0",
+  "main": "lib/index.d.ts",
+  "dependencies": {
+    "express": "registry:npm/express#4.14.0+20160810205701",
+    "express-unless": "registry:npm/express-unless#0.3.0+20160813161628"
+  },
+  "globalDependencies": {
+    "node": "registry:env/node#6.0.0+20160813135048"
+  }
+}
