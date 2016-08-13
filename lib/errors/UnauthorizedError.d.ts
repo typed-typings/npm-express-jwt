@@ -10,7 +10,7 @@ export class UnauthorizedError {
     message: string;
     name: 'UnauthorizedError';
     code: UnauthorizedError.ErrorCode;
-    inner: Error;
+    inner: { message: string };
 
     constructor(code: UnauthorizedError.ErrorCode, error: { message: string });
 }
