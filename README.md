@@ -1,4 +1,6 @@
 # Typed express-jwt
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-express-jwt.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/types/npm-express-jwt.svg?branch=master)](https://travis-ci.org/types/npm-express-jwt)
 
 Typescript Typings for [express-jwt](https://github.com/auth0/express-jwt).
