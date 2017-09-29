@@ -1,8 +1,9 @@
 {
-  "name": "express-jwt",
+  "name": "@types/express-jwt",
   "version": "1.0.0",
   "private": true,
   "description": "Typings for express-jwt",
+  "typings": "lib/index.d.ts",
   "scripts": {
     "build": "typings bundle -o test/bundle.d.ts",
     "test": "tsc -p test",
